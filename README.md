@@ -11,6 +11,7 @@ Adventure Hardware Group (AHG) is a major global manufacturer of bikes and bike 
 | --- | --- |
 | Customer_Churn_Model.ipynb | Notebook file containing the full end-to-end ML churn model development. (Including Data preprocessing, cleaning, transformation, EDA, RFM Clustering, Feature engineering, Model development, evalution and hyperparameter tuning| 
 | Customer churn model report.pdf | Full report on the development and recommendations from the Churn Model project |
+|images | Screenshots of project insights or results |
 
 ## ⚒️ Tools & Programming Languages
 - SQL (Microsoft SQL Server)
@@ -19,3 +20,4 @@ Adventure Hardware Group (AHG) is a major global manufacturer of bikes and bike 
 
 ## 🔑 Key Insights
 - After comparing the performance of multiple ML models, Linear Discriminant Analysis (LDA) was chosen as the best model algorithm as it scored the highest avg f1_score (0.85) at low standard deviations per run.
+![report Screenshot](images/Churn model performance results.png)
